@@ -1,0 +1,13 @@
+C:\Users\tsinh\OneDrive\Desktop\mahoa\bin\Debug\netcoreapp3.1\mahoa.exe
+C:\Users\tsinh\OneDrive\Desktop\mahoa\bin\Debug\netcoreapp3.1\mahoa.deps.json
+C:\Users\tsinh\OneDrive\Desktop\mahoa\bin\Debug\netcoreapp3.1\mahoa.runtimeconfig.json
+C:\Users\tsinh\OneDrive\Desktop\mahoa\bin\Debug\netcoreapp3.1\mahoa.runtimeconfig.dev.json
+C:\Users\tsinh\OneDrive\Desktop\mahoa\bin\Debug\netcoreapp3.1\mahoa.dll
+C:\Users\tsinh\OneDrive\Desktop\mahoa\bin\Debug\netcoreapp3.1\mahoa.pdb
+C:\Users\tsinh\OneDrive\Desktop\mahoa\obj\Debug\netcoreapp3.1\mahoa.csprojAssemblyReference.cache
+C:\Users\tsinh\OneDrive\Desktop\mahoa\obj\Debug\netcoreapp3.1\mahoa.AssemblyInfoInputs.cache
+C:\Users\tsinh\OneDrive\Desktop\mahoa\obj\Debug\netcoreapp3.1\mahoa.AssemblyInfo.cs
+C:\Users\tsinh\OneDrive\Desktop\mahoa\obj\Debug\netcoreapp3.1\mahoa.csproj.CoreCompileInputs.cache
+C:\Users\tsinh\OneDrive\Desktop\mahoa\obj\Debug\netcoreapp3.1\mahoa.dll
+C:\Users\tsinh\OneDrive\Desktop\mahoa\obj\Debug\netcoreapp3.1\mahoa.pdb
+C:\Users\tsinh\OneDrive\Desktop\mahoa\obj\Debug\netcoreapp3.1\mahoa.genruntimeconfig.cache
